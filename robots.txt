@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-65bf502b77.fynox.cn/sitemap.xml

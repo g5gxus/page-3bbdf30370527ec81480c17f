@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "9a3af784adbdca21765c918c",
+  "owner": "g5gxus",
+  "repo": "page-3bbdf30370527ec81480c17f",
+  "title": "Tblack机场(Tblack)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "3bbdf30370527ec81480c17f",
+      "a": "Tblack机场(Tblack)",
+      "b": "",
+      "entity": "Tblack机场(Tblack)",
+      "brand": "Tblack机场(Tblack)",
+      "separator": "",
+      "path": "index.html",
+      "hash": "95b2c87752119dc08a408f1388d3d2bb4af901e4d45e0fc4a4ea071d61600d02",
+      "content": {
+        "keyword1": "Tblack机场(Tblack)",
+        "keyword2": "",
+        "primary_entity": "Tblack机场(Tblack)",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "Tblack机场提供稳定高速的机场订阅服务与官方客户端下载指引，覆盖全球节点，支持流媒体解锁、游戏加速与多设备同时在线，是可靠的网络加速与梯子解决方案官网。",
+          "AI_DESCRIPTION": "Tblack机场提供稳定高速的机场订阅服务与官方客户端下载指引，覆盖全球节点，支持流媒体解锁、游戏加速与多设备同时在线，是可靠的网络加速与梯子解决方案官网。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box;}body{margin:0;font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif;background:#f6f4ef;color:#14301c;font-size:17px;line-height:1.7;}a{color:#1b5e20;}header{background:#1b4332;color:#e8f5e9;padding:0.8rem 1rem;}header a{color:#d8f3dc;text-decoration:none;font-weight:600;}.nav{display:flex;flex-wrap:wrap;gap:0.65rem 1.1rem;justify-content:center;}.wrap{max-width:960px;margin:0 auto;padding:1.25rem 1rem;}.hero{background:#e8f5e9;border-bottom:4px solid #2d6a4f;}h1{font-size:1.7rem;line-height:1.35;color:#1b4332;margin:0 0 0.6rem;}h2{font-size:1.35rem;color:#1b4332;margin:0 0 0.7rem;padding-bottom:0.2rem;border-bottom:2px solid #95d5b2;}h3{font-size:1.12rem;color:#2d6a4f;margin:1rem 0 0.35rem;}.lead{margin:0 0 0.8rem;}.offset-a{padding-right:12%;}.offset-b{padding-left:12%;}@media (max-width:700px){.offset-a,.offset-b{padding-left:1rem;padding-right:1rem;}h1{font-size:1.5rem;}body{font-size:16px;}}.cards{display:flex;flex-wrap:wrap;gap:1rem;margin:1rem 0;}.card{flex:1 1 250px;background:#fffef8;border:1px solid #74c69d;padding:1rem;border-radius:8px;}.card.featured{border-width:3px;border-color:#1b4332;background:#d8f3dc;}.price{font-size:1.4rem;font-weight:700;color:#1b4332;margin:0.2rem 0;}.annual{font-size:0.92rem;color:#2d6a4f;margin:0 0 0.5rem;}.platforms{display:flex;flex-wrap:wrap;gap:0.5rem;margin:0.8rem 0;}.plat{background:#1b4332;color:#f6f4ef;padding:0.35rem 0.7rem;border-radius:4px;font-size:0.88rem;}details{background:#fffef8;border:1px solid #74c69d;margin:0.55rem 0;padding:0.45rem 0.75rem;border-radius:6px;}summary{font-weight:700;color:#1b4332;}footer{background:#1b4332;color:#d8f3dc;padding:1.4rem 1rem 2rem;margin-top:1rem;}footer a{color:#95d5b2;}.foot-grid{display:flex;flex-wrap:wrap;gap:1.2rem;max-width:960px;margin:0 auto;}.foot-grid > div{flex:1 1 220px;}.adbox{background:#2d6a4f;padding:0.75rem;border-radius:6px;}.muted{text-align:center;margin:1.2rem 0 0;font-size:0.82rem;color:#b7e4c7;}ul{margin:0.3rem 0 0.5rem;padding-left:1.15rem;}section{padding-top:0.5rem;}</style><header><nav class=\"nav\" aria-label=\"主导航\"><a href=\"#\">首页</a><a href=\"#clients\">客户端选择</a><a href=\"#plans\">套餐订阅</a><a href=\"#scenes\">使用场景</a><a href=\"#guide\">操作说明</a><a href=\"#faq\">常见问题</a><a href=\"#sitemap\">网站地图</a></nav></header><main><section class=\"hero\" id=\"top\"><div class=\"wrap offset-a\"><h1>Tblack机场(Tblack) 官方网站</h1><p class=\"lead\">Tblack机场专注稳定机场订阅与多端网络加速，提供清晰的客户端选择与导入指引。无论是跨境协作、流媒体还是游戏线路，均可按套餐获取节点与流量，年付更省。本站为品牌官网，便于核对官方身份与下载说明。</p><p>线路分层明确：普通节点池满足日常访问，旗舰与团队开放 IPLC 专线，改善游戏与实时通讯体验。一份订阅可在 Windows、macOS、Android、iOS 等设备导入使用。</p></div></section><section id=\"clients\"><div class=\"wrap offset-b\"><h2>客户端选择（重点）</h2><p>用好 Tblack机场，先选对客户端。请从各软件官方仓库或应用商店安装，再导入本站订阅链接。不要使用来路不明的整合包或破解安装程序。</p><div class=\"platforms\"><span class=\"plat\">Windows：Clash Verge / FlClash</span><span class=\"plat\">macOS：ClashX.Meta / Stash</span><span class=\"plat\">Android：Clash Meta</span><span class=\"plat\">iOS：Shadowrocket / Stash</span><span class=\"plat\">Linux / 路由：Clash / sing-box</span></div><p>各端导入逻辑接近：复制订阅地址，在客户端的订阅或配置栏粘贴并更新，然后挑选延迟较低的节点连接。iOS 应用需通过官方商店获取。详细步骤见操作说明。</p></div></section><section id=\"plans\"><div class=\"wrap\"><h2>机场订阅套餐</h2><p>按流量、设备数与线路等级选择。下列价格与权益以套餐说明为准，年付可降低月均成本。旗舰版覆盖更完整的流媒体与游戏优化，适合大多数个人用户。</p><div class=\"cards\"><article class=\"card\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"card featured\"><h3>旗舰版（推荐）</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"card\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></div><p>开通后在用户中心复制订阅。流量按月重置，设备数按同时在线统计。团队版适合工作室或多地点协同。</p></div></section><section id=\"scenes\"><div class=\"wrap offset-a\"><h2>使用场景</h2><h3>跨境远程办公</h3><p>为访问国际协作文档、会议软件与代码托管提供较稳定的出口。多设备套餐可让电脑与手机同时在线，减少来回切换。</p><h3>学术检索与开发</h3><p>便于打开文献库、镜像站与技术社区。普通线路通常已能覆盖浏览与中小文件拉取。</p><h3>流媒体内容访问</h3><p>旗舰版强调更完整的原生解锁能力。实际可播放内容会随平台版权策略变化，请仅用于个人合法观赏。</p><h3>游戏与实时语音</h3><p>旗舰 IPLC 专线针对延迟与抖动做了优化。选择地理上更靠近游戏区的节点，体验更稳。</p><h3>差旅备用网络</h3><p>公共 Wi-Fi 质量波动时，可用客户端快速换节点。团队版覆盖终端更多，适合同行设备一起使用。</p></div></section><section id=\"guide\"><div class=\"wrap offset-b\"><h2>操作说明</h2><h3>一、开通并复制订阅</h3><p>在官网选定套餐完成开通，登录用户中心复制 Clash 或通用订阅地址。订阅属于账号凭证，请勿公开分享。</p><h3>二、安装官方客户端</h3><p>对照「客户端选择」到 GitHub 发行页或应用商店安装对应程序。Windows 需允许防火墙通过；移动端注意系统 VPN 授权提示。</p><h3>三、导入配置</h3><p>打开订阅管理，粘贴 URL 并命名为 Tblack，执行更新。节点列表出现即表示导入成功。</p><h3>四、连接与选择节点</h3><p>开启系统代理或 TUN。优先测香港、日本、新加坡等近端节点。需要流媒体时，改选标注解锁或原生的入口。</p><h3>五、日常维护</h3><p>建议定期更新订阅以同步新节点。网络环境变化导致异常时，先换节点再重启客户端。旗舰用户可通过优先工单反馈线路问题。</p></div></section><section><div class=\"wrap\"><h2>节点与线路说明</h2><p>Tblack机场节点覆盖香港、台北、东京、首尔、新加坡、洛杉矶、伦敦等方向。基础版使用普通优质线路；旗舰与团队额外提供 IPLC 与高带宽 VIP 入口。晚高峰会做调度，但跨境速度仍受本地运营商与国际路由影响，请以实际测速为准。</p></div></section><section id=\"faq\"><div class=\"wrap\"><h2>常见问题 FAQ</h2><details><summary>Tblack机场如何下载并选择客户端？</summary><p>按系统选择 Clash 内核或 Stash、Shadowrocket 等官方客户端，安装来源必须是作者发布页或应用商店。本官网说明导入方法，不托管安装文件，避免被二次打包。</p></details><details><summary>机场订阅链接在哪里获取、如何导入？</summary><p>套餐生效后进入用户中心复制订阅 URL，在客户端「订阅」或「配置」中粘贴并更新。若更新失败，检查链接完整性、系统时间以及是否被本地安全软件拦截。</p></details><details><summary>基础版、旗舰版和团队版主要差别是什么？</summary><p>差别在月流量、同时在线设备数、流媒体解锁范围、是否含 IPLC 游戏优化以及支持响应级别。基础版适合轻度浏览；旗舰版是个人主力；团队版面向多设备与定制路由。</p></details><details><summary>Tblack机场适合哪些合法使用场景？</summary><p>远程办公、文献与开源资源访问、个人流媒体、游戏加速以及差旅备用网络。请遵守所在地与目标站点的法律法规，不要用于未授权访问或侵权分发。</p></details><details><summary>连接不稳定或速度不理想时怎么排查？</summary><p>先更新订阅，换不同地区或协议节点；关闭其他代理软件；核对系统时间。公司网络或校园网有时需切换网络再试。旗舰用户可走优先工单说明时段与节点名称。</p></details><details><summary>如何确认官方身份？客户端下载是否安全？</summary><p>请核对 Tblack机场(Tblack) 品牌与本官网信息。客户端始终从软件官方渠道获取，只用本站提供的订阅地址。不要相信声称「免订阅」或「破解加速器」的第三方站点。</p></details></div></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer id=\"sitemap\"><div class=\"foot-grid\"><div><h3>网站地图</h3><p><a href=\"#\">首页</a> · <a href=\"#clients\">客户端选择</a> · <a href=\"#plans\">套餐订阅</a> · <a href=\"#scenes\">使用场景</a> · <a href=\"#guide\">操作说明</a> · <a href=\"#faq\">常见问题</a></p></div><div><h3>广告与合作</h3><div class=\"adbox\">企业定制路由与品牌合作可通过官网渠道咨询。团队版含专属客户经理，便于多账号与策略分流管理。</div></div><div><h3>友情链接</h3><p><a href=\"#\">Clash 使用文档</a> · <a href=\"#\">网络诊断常识</a> · <a href=\"#\">隐私保护实践</a> · <a href=\"#\">开源代理生态</a></p></div></div><p class=\"muted\">© Tblack机场(Tblack) 官方网站 · 内容用于介绍机场订阅、客户端选择与网络加速方式 · 请合法使用服务</p></footer>",
+          "hash": "14682e9c6a7cf34ed1aaab4a445e0de3804a4f26bf835b686aba29e62af6bb38",
+          "seo": {
+            "title": "Tblack机场(Tblack)官网 - 机场订阅、VPN梯子加速与多端客户端下载",
+            "keywords": "Tblack机场,Tblack,Tblack VPN,机场订阅,VPN梯子,网络加速器,客户端下载,官网下载,Clash,Shadowrocket,IPLC加速",
+            "description": "Tblack机场提供稳定高速的机场订阅服务与官方客户端下载指引，覆盖全球节点，支持流媒体解锁、游戏加速与多设备同时在线，是可靠的网络加速与梯子解决方案官网。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "fynox.cn",
+    "host": "p-65bf502b77.fynox.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "ejjxvnw.cn",
+      "url": "https://ejjxvnw.cn/",
+      "label": "Tblack机场(Tblack)",
+      "apex": "ejjxvnw.cn",
+      "kind": null,
+      "identity": "fjaumcadfkd/page-3314adaac1d51ef9084e39ea"
+    },
+    {
+      "host": "narqc.cn",
+      "url": "https://narqc.cn/",
+      "label": "Tblack机场(Tblack)",
+      "apex": "narqc.cn",
+      "kind": null,
+      "identity": "ktndvbp/page-a5ba23b725672f09b2f3c79e"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "d39391e7ae1d009ca3515548ff4d174b148999da3b3a82a8968e45564434b4eb",
+    "sitemap.xml": "6402101ca6352204ea635e2eab0f475ebb9ecaadd0c2d6dbf8202bd05aef599a",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "959bf676e1c4408e8bf05d10b6fc428da688ed78366889dc04569f39bd2a003f",
+    "robots.txt": "0551c6aa0f52b8e50f88262e78794470892e99337e1000e857bb8f2b654efffd",
+    "331411d50509b890343093eaa36d85a9.txt": "1d94ddb18564af8f63a668b67f868e698300f70fc60ecd594a4fc4e9f18a5fbc"
+  },
+  "revision": "6c4821541ff287fc279ee18d763e7b3319fe068129b37ebdb95f6b88f23d25bd"
+}
